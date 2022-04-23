@@ -2,7 +2,7 @@
 
 **WELCOME** to my ✨ _special_ ✨ repository.
 
-- 🔭 I’m currently working on a FINTECH App
+- 🔭 I’m currently working on a SECRET App
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on my future projects
 - 🤔 I’m looking for help with Webpack
