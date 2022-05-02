@@ -1,6 +1,6 @@
 ###  Hi there 👋
 
-**WELCOME** to my ✨ _special_ ✨ repository.
+**WELCOME** to my ✨ _special_ ✨repository.
 
 - 🔭 I’m currently working on a SECRET App
 - 🌱 I’m currently learning NodeJS
