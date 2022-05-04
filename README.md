@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a SECRET App 🤫
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on my future projects
-- 🤔 I’m looking for help with Webpack
+- 🤔 I’m looking for help with DevOps
 - 💬 Ask me about React Hooks
 - 📫 How to reach me:  darrenodi85@gmail.com
 - 😄 Pronouns: He
