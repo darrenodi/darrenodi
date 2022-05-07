@@ -3,7 +3,7 @@
 **WELCOME** to my ✨ _special_ ✨repository.
 
 - 🔭 I’m currently working on a SECRET App 🤫
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning React Redux
 - 👯 I’m looking to collaborate on my future projects
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about React Hooks
