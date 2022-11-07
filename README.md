@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Student management App for online tutors 🤫<br>🌱 I’m currently learning Ember <br>👯 I’m looking to collaborate on my future projects<br>🤔 I’m looking for help with AWS<br>💬 Ask me about React Hooks<br>📫 How to reach me: darrenodi85@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I don't feel hungry when I enjoy what I am doing. 
+🔭 I’m currently working on a Student management App for online tutors 🤫<br>🌱 I’m currently learning Ember <br>👯 I’m looking to collaborate on my future projects<br>🤔 I’m looking for help with AWS<br>💬 Ask me about SQLAlchemy<br>📫 How to reach me: darrenodi85@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I don't feel hungry when I enjoy what I am doing. 
 
 
 ## 🌐 Socials:
