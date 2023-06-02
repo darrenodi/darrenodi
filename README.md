@@ -1,5 +1,5 @@
 # 💫 About Me:
-📫 How to reach me: tantheta85@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I don't feel hungry when I enjoy what I am doing. 
+📫 How to reach me: tantheta85@gmail.com<br>😄 Pronouns: I'm a he<br>⚡ Fun fact: I don't feel hungry when I enjoy what I am doing. 
 
 
 ## 🌐 Socials:
